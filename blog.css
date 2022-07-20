@@ -4,6 +4,8 @@ body {
     background-color: whitesmoke;
 }
 
+/* animation */
+
 .header-container:hover .banner-img {
     transform: scale(1.2);
 }
@@ -258,6 +260,8 @@ body {
     margin: 5px 15px;
 }
 
+/* mobile view  */
+
 @media screen and (max-width: 576px) {
     header {
         display: flex;
@@ -327,6 +331,7 @@ body {
     }
 }
 
+/* tablet view  */
 
 @media screen and (min-width: 577px) and (max-width: 768px) {
     header {
