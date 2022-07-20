@@ -387,17 +387,20 @@ body {
         width: 100%;
     }
 
-    .hide-blog{
+    .hide-blog {
         display: none;
     }
-    .view-all{
+
+    .view-all {
         display: block;
         margin-top: 20px;
         margin-bottom: 20px;
     }
-    .footer{
+
+    .footer {
         margin-top: 48px;
     }
+
     .details-box {
         width: 82%;
         display: flex;

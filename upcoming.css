@@ -383,9 +383,10 @@ body {
         width: 100%;
     }
 
-    .footer{
+    .footer {
         margin-top: 48px;
     }
+
     .details-box {
         width: 82%;
         display: flex;
